@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'rod'
+}
+
+item {
+    id: 2
+    name: 'sphere'
+}
+
+item {
+    id: 3
+    name: 'cigar'
+}
+
+item {
+    id: 4
+    name: 'dumbbell'
+}
